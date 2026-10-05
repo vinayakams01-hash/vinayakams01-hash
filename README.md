@@ -1,18 +1,72 @@
 ## Hi there 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinayaka-ms-4aa81a253) 
+<!--
+**vinayakams01-hash/vinayakams01-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vinayakams01-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vinayakams01-hash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinayakams01-hash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Here are some ideas to get you started:
 
----
-[![](https://komarev.com/ghpvc/?username=vinayakams01-hash&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# VINAYAKA M S
+
+🌱 Growing as a Developer | Open to Opportunities
+
+---
+
+## About Me
+
+I am a passionate and detail-oriented fresher seeking entry-level opportunities in software development. My proficiency covers:
+
+- **Languages & Web:**  
+  Python, SQL
+
+- **Frontend:**  
+  React.js
+
+- **Backend & Frameworks:**  
+  Node.js, Express.js
+
+- **Databases:**  
+  MySQL, MongoDB
+
+- **AI & ML:**  
+  Artificial Intelligence, Machine Learning, NumPy, pandas
+
+- **Cloud:**  
+  Microsoft Azure
+
+I am eager to contribute to innovative projects, learn from experienced teams, and continuously grow as a developer.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn: Sugam K N](https://www.linkedin.com/in/vinayaka-ms-4aa81a253/))
+
+---
+
+## ⚡ Skills
+
+- Python, SQL
+- React.js, Node.js, Express.js
+- MySQL, MongoDB
+- Artificial Intelligence, Machine Learning
+- NumPy, pandas
+- Microsoft Azure
+
+---
+
+## 🚀 Looking For
+
+- Entry-level software development roles
+- Internship or full-time opportunities
+- Projects to collaborate and learn
+
+Let's connect and explore how we can work together!
