@@ -48,7 +48,7 @@ I am eager to contribute to innovative projects, learn from experienced teams, a
 
 ## 📫 Connect with Me
 
-- [LinkedIn: Sugam K N](https://www.linkedin.com/in/vinayaka-ms-4aa81a253/))
+- [LinkedIn: VINAYAKA M S](https://www.linkedin.com/in/vinayaka-ms-4aa81a253/))
 
 ---
 
