@@ -25,13 +25,16 @@ Here are some ideas to get you started:
 I am a passionate and detail-oriented fresher seeking entry-level opportunities in software development. My proficiency covers:
 
 - **Languages & Web:**  
-  Python, SQL
+  Python, SQL,HTML,CSS
 
 - **Frontend:**  
   React.js
 
 - **Backend & Frameworks:**  
   Node.js, Express.js
+
+  **AI Tools:**  
+  Claude Code, OpenAI Codex
 
 - **Databases:**  
   MySQL, MongoDB
@@ -54,8 +57,9 @@ I am eager to contribute to innovative projects, learn from experienced teams, a
 
 ## ⚡ Skills
 
-- Python, SQL
+- Python, SQL, HTML, CSS
 - React.js, Node.js, Express.js
+- Claude Code, OpenAI Codex
 - MySQL, MongoDB
 - Artificial Intelligence, Machine Learning
 - NumPy, pandas
